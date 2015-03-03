@@ -1,2 +1,2 @@
-# loginandlogout
-Login and Logout using PHP
+# Login and Logout Using PHP
+Just another assignment for security
